@@ -34,7 +34,7 @@ npm run build
 ```
 
 ### Start the app
-
+### ip address whitelisted
 ```shell
 npm start
 ```
